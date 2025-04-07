@@ -134,16 +134,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Authors
 seniorCod-72 - Initial work and API design
 
-Enjoy using the Late Show API! 🎤📺
 
-markdown
-Copy
-
-### Key Sections:
-1. **Introduction**: A short overview of the project and its functionality.
-2. **Installation Instructions**: Steps to clone the repository, install dependencies, and set up the database.
-3. **API Documentation**: Details about the available endpoints and example requests/responses.
-4. **Models**: Information about the database schema and constraints.
-5. **Contributing**: Guidelines for contributing to the project.
-6. **License**: Mentions the project license (you can adjust it as needed).
 
