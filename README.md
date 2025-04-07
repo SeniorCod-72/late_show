@@ -147,4 +147,3 @@ Copy
 5. **Contributing**: Guidelines for contributing to the project.
 6. **License**: Mentions the project license (you can adjust it as needed).
 
-Let me know if you'd like me to make any changes!
